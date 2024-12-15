@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MisterGlitchPRblx
-- 👀 I’m interested in Software Engineer, Robotic and Cybersecurity
+- 👀 I’m interested in Software Engineer, Games and Cybersecurity
 - 🌱 I’m currently learning Front-end and Roblox
-- 💞️ I’m looking to collaborate on smalls projects
+- 💞️ I’m looking to collaborate on (For now, nothing)
 - 📫 How to reach me (for now, No way)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Here
 
 <!---
