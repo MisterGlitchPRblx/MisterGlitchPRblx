@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MisterGlitchPRblx
-- 👀 I’m interested in Software Engineer, Games and Cybersecurity
+- 👀 I’m interested in Software Games and Web-Dev
 - 🌱 I’m currently learning Front-end and Roblox
 - 💞️ I’m looking to collaborate on (For now, nothing)
 - 📫 How to reach me (for now, No way)
