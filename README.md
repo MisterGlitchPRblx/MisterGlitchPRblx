@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end and Roblox
 - 💞️ I’m looking to collaborate on (For now, nothing)
 - 📫 How to reach me (for now, No way)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Here
 
 <!---
